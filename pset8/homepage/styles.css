@@ -1,0 +1,30 @@
+body
+{
+  background-color: #00ff00;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 500px;
+}
+#page_title
+{
+  font-size: 400%;
+  text-align: center;
+}
+
+.ordered_list_items
+{
+  font-size: 200%;
+  color: #000000;
+  
+}
+.image_descreption
+{
+  font-size: 200%;
+}
+
+
